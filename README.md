@@ -1,2 +1,3 @@
 # hello-world
-just proatice
+just practice for git, this is the content in README file
+
